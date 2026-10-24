@@ -1,123 +1,101 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/signal-header.svg" alt="Atharv — quantitative finance, machine learning, and systems" />
+<img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/ai-in-progress.gif" alt="AI / ML in progress — learning deeply, building carefully, staying curious" />
+
+<br />
+
+<strong>AI/ML student · IIT Bombay · building in public</strong>
 
 </div>
 
-<table>
-  <tr>
-    <td width="66%" valign="top">
-      <h2>ATHARV PRATAP SINGH CHAUHAN</h2>
-      <p><strong>Quantitative developer · ML engineer · systems builder</strong></p>
-      <p>I am a Mechanical Engineering undergraduate at <strong>IIT Bombay</strong>, pursuing a <strong>minor in Mathematics</strong> and working as a <strong>Quant Research Intern at the Quant Finance Institute</strong>.</p>
-      <p>I build systems where the model is only half the job: the other half is making it fast, testable, explainable, and useful.</p>
-    </td>
-    <td width="34%" valign="top">
-      <pre>STATUS   ONLINE
-BASE     IIT BOMBAY
-FOCUS    QUANT / ML / C++
-MODE     RESEARCH → BUILD
-SIGNAL   001</pre>
-    </td>
-  </tr>
-</table>
+<br />
 
-> **Current thesis:** good engineering is what happens when uncertainty meets a hard constraint.
+I’m **Atharv**, a Mechanical Engineering undergraduate at **IIT Bombay** pursuing a **minor in Mathematics**. I’m exploring AI/ML through research, prototypes, and the occasional rabbit hole that starts with “what if?”
 
-## / NOW
+I’m especially interested in understanding **how models learn**, how to make AI more **grounded and reliable**, and how to turn a rough idea into something a person can actually use.
+
+> This profile is a workbench, not a trophy cabinet. It is a snapshot of what I’m learning, building, and trying to understand next.
+
+## Currently exploring
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>01 — QUANT</strong><br />
-      VaR / ES, volatility models, backtesting, stress testing, and execution simulations.
+      <h3>01 · Learning</h3>
+      <p>Deep learning fundamentals, representation learning, and the mathematics behind useful models.</p>
     </td>
     <td width="33%" valign="top">
-      <strong>02 — INTELLIGENCE</strong><br />
-      Grounded ML, multimodal pipelines, brain-inspired learning, and decision support.
+      <h3>02 · Research</h3>
+      <p>Brain-inspired neural networks, synaptic plasticity, computational neuroscience, and model behaviour.</p>
     </td>
     <td width="33%" valign="top">
-      <strong>03 — PERFORMANCE</strong><br />
-      C++ graph engines, IPC, asynchronous Python, and systems that respect latency.
+      <h3>03 · Making</h3>
+      <p>Small, thoughtful AI products with clear feedback, real constraints, and a human on the other side.</p>
     </td>
   </tr>
 </table>
 
-## / SELECTED BUILDS
+## Selected builds
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/market-risk-var-platform">MARKET RISK / VAR PLATFORM</a></h3>
-      <p>Research-grade risk analytics for a 10-stock portfolio: HS VaR/ES, EWMA, GARCH, GJR-GARCH, regulatory backtests, model ranking, and stress scenarios.</p>
-      <p><code>Python · NumPy · Pandas · SciPy · Jupyter</code></p>
+      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/kisan-edge">KISAN-EDGE</a></h3>
+      <p>An offline, on-device smart-farming assistant: a leaf image goes through a lightweight vision model, then a transparent rule engine turns the result into practical advice.</p>
+      <p><code>TensorFlow.js · MobileNet · Edge AI · Explainability</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/geoai-outdoor-assistant">GEOAI / OUTDOOR ASSISTANT</a></h3>
+      <p>A grounded geospatial assistant that combines live weather, air quality, places, travel time, land cover, and safety constraints before making a recommendation.</p>
+      <p><code>Python · Geospatial AI · Qwen3 · OpenStreetMap</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/Orchestrate-AI-Damage-Assessor">ORCHESTRATE / CLAIMS</a></h3>
+      <p>An asynchronous multimodal pipeline for checking visual evidence in insurance claims, with structured outputs, batching, retries, and safe failure handling.</p>
+      <p><code>Python · asyncio · Pandas · Claude</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/Lexi-Hackathon-Project">LEXI / HANDWRITING THERAPY</a></h3>
+      <p>A gamified handwriting platform for children with dyslexia and dysgraphia, built around a custom Canvas engine and real-time writing telemetry.</p>
+      <p><code>React 19 · Vite · Canvas API · Accessibility</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/vera">VERA / CITATION VERIFIER</a></h3>
+      <p>A verifier, not a generator: checks whether AI-written legal citations exist, match the record, and say what the text claims they say.</p>
+      <p><code>Python · FastAPI · Information Retrieval · Reliable AI</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/gridlock-engine">ASTRAM / GRIDLOCK ENGINE</a></h3>
-      <p>Tactical dispatch for emergency logistics: a C++ Dijkstra core, ML severity scoring, FastAPI orchestration, and a React command dashboard.</p>
+      <p>An emergency logistics prototype combining a C++ route optimiser, ML incident scoring, a FastAPI layer, and an operational React dashboard.</p>
       <p><code>C++ · FastAPI · React · Scikit-learn</code></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/geoai-outdoor-assistant">GEOAI / OUTDOOR ASSISTANT</a></h3>
-      <p>A grounded geospatial assistant that joins live weather, air quality, venues, travel time, land cover, and safety constraints before making a recommendation.</p>
-      <p><code>Python · Geospatial AI · Qwen3 · OpenStreetMap</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/HFT-Simulation-Engine">HFT / EXECUTION ENGINE</a></h3>
-      <p>A low-latency C++ producer and Python consumer connected over OS pipes, with streaming prices, trading signals, P&amp;L, and drawdown monitoring.</p>
-      <p><code>C++ · Python · IPC · Matplotlib</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/Lexi-Hackathon-Project">LEXI / HANDWRITING THERAPY</a></h3>
-      <p>A gamified platform for children with dyslexia and dysgraphia, built around a custom Canvas vector engine and 13 real-time writing metrics.</p>
-      <p><code>React 19 · Vite · Canvas API · Accessibility</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/Orchestrate-AI-Damage-Assessor">ORCHESTRATE / CLAIMS</a></h3>
-      <p>An async multimodal insurance-claim verifier with schema enforcement, concurrent batching, retries, context merging, and safe failure handling.</p>
-      <p><code>Python · asyncio · Pandas · Claude</code></p>
-    </td>
-  </tr>
 </table>
 
-## / PROOF OF WORK
+## What I’m learning in public
 
-<table>
-  <tr>
-    <td><strong>1957</strong><br /><sub>Codeforces peak · Candidate Master</sub></td>
-    <td><strong>42 / 50</strong><br /><sub>Jane Street Monthly Puzzle · global</sub></td>
-    <td><strong>3rd</strong><br /><sub>IMC Pit Trading Challenge</sub></td>
-    <td><strong>5th</strong><br /><sub>Algo General Championship · IITB</sub></td>
-  </tr>
-  <tr>
-    <td><strong>21 / 534</strong><br /><sub>Da Vinci Trading finalist</sub></td>
-    <td><strong>Nationals</strong><br /><sub>Smart India Hackathon selection</sub></td>
-    <td><strong>13</strong><br /><sub>Lexi telemetry metrics</sub></td>
-    <td><strong>100+</strong><br /><sub>Concurrent stochastic simulations</sub></td>
-  </tr>
-</table>
+- How to build models from first principles instead of only calling them.
+- How to evaluate AI systems when a confident answer is not necessarily a correct one.
+- How research ideas become interfaces, experiments, and products.
+- How to communicate technical work clearly — including the limitations.
 
-## / TOOLCHAIN
+## A small stack I keep reaching for
 
-```text
-LANGUAGES      C++ · Python · TypeScript · JavaScript
-ML             PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas
-SYSTEMS        Low-latency architecture · IPC · graph algorithms · async workflows
-RESEARCH       Stochastic modelling · probability · linear algebra · deep learning
-INTERFACES     React · FastAPI · Canvas API · Matplotlib
-```
+`Python` · `C++` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `Scikit-learn` · `React` · `FastAPI`
 
-## / ELSEWHERE
+Outside AI/ML, I also enjoy quantitative finance, algorithms, and performance-oriented systems — mostly because they are good ways to learn how assumptions behave under pressure.
+
+## Elsewhere
 
 <table>
   <tr>
     <td><strong>Portfolio</strong><br /><a href="https://atharv-portfolio.apsc.workers.dev">atharv-portfolio.apsc.workers.dev</a></td>
     <td><strong>Email</strong><br /><a href="mailto:atharviitb2029@gmail.com">atharviitb2029@gmail.com</a></td>
-    <td><strong>ORCID</strong><br /><a href="https://orcid.org/0009-0004-4719-7522">0009-0004-4719-7522</a></td>
+    <td><strong>LinkedIn</strong><br /><a href="https://www.linkedin.com/in/atharv-pratap-singh-chauhan/">atharv-pratap-singh-chauhan</a></td>
   </tr>
 </table>
 
@@ -125,6 +103,7 @@ INTERFACES     React · FastAPI · Canvas API · Matplotlib
   <summary><strong>More context</strong></summary>
   <br />
 
+  - **Education:** B.Tech. Mechanical Engineering, IIT Bombay · Minor in Mathematics.
   - **Research:** brain-inspired neural networks, synaptic plasticity, modularity, and computational neuroscience.
   - **Certifications:** GCI AI &amp; Data Science Program · Stanford Machine Learning Specialization · Imperial Mathematics for Machine Learning Specialization.
   - **Languages:** English · Hindi · Standard Mandarin (beginner).
@@ -135,6 +114,6 @@ INTERFACES     React · FastAPI · Canvas API · Matplotlib
 
 <br />
 
-`NO WAVES. NO NOISE. JUST SIGNAL.`
+`still learning · still building · still curious`
 
 </div>
