@@ -1,56 +1,29 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/ai-in-progress.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/ai-in-progress-light.gif" />
-  <img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/ai-in-progress.gif" alt="AI / ML in progress — learning deeply, building carefully, staying curious" />
-</picture>
-
-<br />
-
-<strong>AI/ML student · IIT Bombay · building in public</strong>
+<img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/retro/header.svg" alt="Atharv — AI/ML explorer at IIT Bombay" />
 
 </div>
 
-<br />
+<div align="center">
 
-I’m **Atharv**, a Mechanical Engineering undergraduate at **IIT Bombay** pursuing a **minor in Mathematics**. I’m exploring AI/ML through research, prototypes, and the occasional rabbit hole that starts with “what if?”
+<img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/retro/about.svg" alt="About Atharv: exploring how models learn and how AI can stay grounded" />
 
-I’m especially interested in understanding **how models learn**, how to make AI more **grounded and reliable**, and how to turn a rough idea into something a person can actually use.
+</div>
 
-> This profile is a workbench, not a trophy cabinet. It is a snapshot of what I’m learning, building, and trying to understand next.
+## QUEST LOG / SELECTED BUILDS
 
-## Currently exploring
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>01 · Learning</h3>
-      <p>Deep learning fundamentals, representation learning, and the mathematics behind useful models.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>02 · Research</h3>
-      <p>Brain-inspired neural networks, synaptic plasticity, computational neuroscience, and model behaviour.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>03 · Making</h3>
-      <p>Small, thoughtful AI products with clear feedback, real constraints, and a human on the other side.</p>
-    </td>
-  </tr>
-</table>
-
-## Selected builds
+I’m **Atharv**, a Mechanical Engineering undergraduate at **IIT Bombay** pursuing a **minor in Mathematics**. This profile is a living notebook of my AI/ML learning: research questions, prototypes, experiments, and things I’m still figuring out.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/kisan-edge">KISAN-EDGE</a></h3>
-      <p>An offline, on-device smart-farming assistant: a leaf image goes through a lightweight vision model, then a transparent rule engine turns the result into practical advice.</p>
+      <p>An offline, on-device smart-farming assistant that combines a lightweight vision model with a transparent rule engine for practical field advice.</p>
       <p><code>TensorFlow.js · MobileNet · Edge AI · Explainability</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ATHARV-IIT-BOMBAY/geoai-outdoor-assistant">GEOAI / OUTDOOR ASSISTANT</a></h3>
-      <p>A grounded geospatial assistant that combines live weather, air quality, places, travel time, land cover, and safety constraints before making a recommendation.</p>
+      <p>A grounded geospatial assistant that combines live weather, air quality, places, travel time, land cover, and safety constraints.</p>
       <p><code>Python · Geospatial AI · Qwen3 · OpenStreetMap</code></p>
     </td>
   </tr>
@@ -80,44 +53,32 @@ I’m especially interested in understanding **how models learn**, how to make A
   </tr>
 </table>
 
-## What I’m learning in public
+## CURRENTLY LEARNING
 
-- How to build models from first principles instead of only calling them.
+- How models learn representations instead of only how to call them.
 - How to evaluate AI systems when a confident answer is not necessarily a correct one.
-- How research ideas become interfaces, experiments, and products.
-- How to communicate technical work clearly — including the limitations.
-
-## A small stack I keep reaching for
-
-`Python` · `C++` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `Scikit-learn` · `React` · `FastAPI`
-
-Outside AI/ML, I also enjoy quantitative finance, algorithms, and performance-oriented systems — mostly because they are good ways to learn how assumptions behave under pressure.
-
-## Elsewhere
-
-<table>
-  <tr>
-    <td><strong>Portfolio</strong><br /><a href="https://atharv-portfolio.apsc.workers.dev">atharv-portfolio.apsc.workers.dev</a></td>
-    <td><strong>Email</strong><br /><a href="mailto:atharviitb2029@gmail.com">atharviitb2029@gmail.com</a></td>
-    <td><strong>LinkedIn</strong><br /><a href="https://www.linkedin.com/in/atharv-pratap-singh-chauhan/">atharv-pratap-singh-chauhan</a></td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>More context</strong></summary>
-  <br />
-
-  - **Education:** B.Tech. Mechanical Engineering, IIT Bombay · Minor in Mathematics.
-  - **Research:** brain-inspired neural networks, synaptic plasticity, modularity, and computational neuroscience.
-  - **Certifications:** GCI AI &amp; Data Science Program · Stanford Machine Learning Specialization · Imperial Mathematics for Machine Learning Specialization.
-  - **Languages:** English · Hindi · Standard Mandarin (beginner).
-
-</details>
+- How brain-inspired ideas can inform neural architectures and experiments.
+- How to turn a research question into a small, useful interface.
+- How to communicate technical work honestly, including its limits.
 
 <div align="center">
 
-<br />
+<img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/retro/skills.svg" alt="Atharv's AI/ML and software toolkit" />
 
-`still learning · still building · still curious`
+<img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/retro/gh-stats.svg" alt="Atharv's GitHub languages and metrics" />
+
+</div>
+
+## CONTACT / NEXT LEVEL
+
+If you’re working on something thoughtful in AI/ML, education, accessibility, or grounded technology, I’d be happy to hear about it.
+
+- **Portfolio:** [atharv-portfolio.apsc.workers.dev](https://atharv-portfolio.apsc.workers.dev)
+- **Email:** [atharviitb2029@gmail.com](mailto:atharviitb2029@gmail.com)
+- **LinkedIn:** [atharv-pratap-singh-chauhan](https://www.linkedin.com/in/atharv-pratap-singh-chauhan/)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/retro/footer.svg" alt="Find Atharv on GitHub and visit his portfolio" />
 
 </div>
