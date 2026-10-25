@@ -65,8 +65,6 @@ I’m **Atharv**, a Mechanical Engineering undergraduate at **IIT Bombay** pursu
 
 <img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/retro/skills.svg" alt="Atharv's AI/ML and software toolkit" />
 
-<img src="https://raw.githubusercontent.com/ATHARV-IIT-BOMBAY/ATHARV-IIT-BOMBAY/main/assets/retro/gh-stats.svg" alt="Atharv's GitHub languages and metrics" />
-
 </div>
 
 ## CONTACT / NEXT LEVEL
